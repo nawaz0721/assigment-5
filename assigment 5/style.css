@@ -1,0 +1,707 @@
+
+header{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color:red;
+}
+h1{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.top {
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    color: #fff;
+    background: #000;
+    border-radius: 100px;   
+    display:block;
+    width: 110px;
+    margin-left: 37%;
+    margin-top: 20%;
+}
+div{
+    width: 420px;
+    height: 250px;
+    border: 1px solid black; 
+}
+#a img{
+    width: 240px;
+    height: 230px;
+    display: inline;
+    margin-top: -30px;
+}
+#a p{
+    display: inline;
+    font-size:120px;
+}
+#a p:hover{
+    display: inline;
+    font-size:120px;
+    color: red;
+}
+#a h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#a h1:hover{
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-top: -35px;
+}
+#b p{
+    display: inline;
+    font-size:120px;
+    
+}
+#b p:hover{
+    color: rgba(233, 233, 105, 0.959);
+}
+#b h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#b h1:hover {
+    background-color: rgba(233, 233, 105, 0.959);
+    color: white;
+}
+#b img{
+    width: 240px;
+    height: 230px;
+    display: inline;
+    margin-top: -30px;
+}
+#c p{
+    display: inline;
+    font-size:120px;
+}
+#c p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(104, 104, 104);
+}
+#c h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#c h1:hover{
+    text-align: center;
+    background-color: rgb(104, 104, 104);
+    color: white;
+    margin-top: -35px;
+}
+#c img{
+    width: 240px;
+    height: 230px;
+    display: inline;
+    margin-top: -28px;
+}
+#d p{
+    display: inline;
+    font-size:120px;
+}
+#d p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(104, 104, 104);
+}
+#d h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#d h1:hover{
+    text-align: center;
+    background-color: rgb(104, 104, 104);
+    color: white;
+    margin-top: -35px;
+}
+#d img{
+    width: 220px;
+    height: 190px;
+    display: inline;
+    margin-top: 7px;
+}
+#e p{
+    display: inline;
+    font-size:120px;
+}
+#e p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(63, 57, 57);
+}
+#e h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#e h1:hover{
+    text-align: center;
+    background-color: rgb(63, 57, 57);
+    color: white;
+    margin-top: -35px;
+}
+#e img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: -1px;
+}
+#f p{
+    display: inline;
+    font-size:120px;
+}
+#f p:hover{
+    display: inline;
+    font-size:120px;
+    color: red;
+}
+#f h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#f h1:hover{
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-top: -35px;
+}
+#f img{
+    width: 240px;
+    height: 190px;
+    display: inline;
+    margin-top: 7px;
+}
+#g p{
+    display: inline;
+    font-size:120px;
+}
+#g p:hover{
+    display: inline;
+    font-size:120px;
+    color: green;
+}
+#g h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#g h1:hover{
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-top: -35px;
+}
+#g img{
+    width: 240px;
+    height: 190px;
+    display: inline;
+    margin-top: 7px;
+}
+#h p{
+    display: inline;
+    font-size:120px;
+}
+#h p:hover{
+    display: inline;
+    font-size:120px;
+    color: brown;
+}
+#h h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#h h1:hover{
+    text-align: center;
+    background-color: brown;
+    color: white;
+    margin-top: -35px;
+}
+#h img{
+    width: 240px;
+    height: 190px;
+    display: inline;
+    margin-top: 7px;
+}
+#i p{
+    display: inline;
+    font-size:120px;
+}
+#i p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(93, 223, 255);
+}
+#i h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#i h1:hover{
+    text-align: center;
+    background-color: rgb(93, 223, 255);
+    color: white;
+    margin-top: -35px;
+}
+#i img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+
+}
+#j p{
+    display: inline;
+    font-size:120px;
+}
+#j p:hover{
+    display: inline;
+    font-size:120px;
+    color: orange;
+}
+#j h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#j h1:hover{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    margin-top: -35px;
+}
+#j img{
+    width: 240px;
+    height: 230px;
+    display: inline;
+    margin-top: -30px;
+}
+#k p{
+    display: inline;
+    font-size:120px;
+}
+#k p:hover{
+    display: inline;
+    font-size:120px;
+    color: red;
+}
+#k h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#k h1:hover{
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-top: -35px;
+}
+#k img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: 0px;
+}
+#l p{
+    display: inline;
+    font-size:120px;
+}
+#l p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgba(78, 82, 43, 0.74);
+}
+#l h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#l h1:hover{
+    text-align: center;
+    background-color: rgba(78, 82, 43, 0.74);
+    color: white;
+    margin-top: -35px;
+}
+#l img{
+    width: 240px;
+    height: 210px;
+    display: inline;
+    margin-top: -8px;
+}
+#m p{
+    display: inline;
+    font-size:110px;
+}
+#m p:hover{
+    display: inline;
+    font-size:110px;
+    color: rgba(255, 255, 0, 0.822);
+}
+#m h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#m h1:hover{
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.822);
+    color: white;
+    margin-top: -35px;
+}
+#m img{
+    width: 190px;
+    height: 200px;
+    display: inline;
+    margin-top: 0px;
+}
+#n p{
+    display: inline;
+    font-size:120px;
+}
+#n p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgba(99, 35, 35, 0.699);
+}
+#n h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#n h1:hover{
+    text-align: center;
+    background-color: rgba(99, 35, 35, 0.699);
+    color: white;
+    margin-top: -35px;
+}
+#n img{
+    width: 240px;
+    height: 210px;
+    display: inline;
+    margin-top: -10px;
+}
+#o p{
+    display: inline;
+    font-size:120px;
+}
+#o p:hover{
+    display: inline;
+    font-size:120px;
+    color: orange;
+}
+#o h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#o h1:hover{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    margin-top: -35px;
+}
+#o img{
+    width: 240px;
+    height: 210px;
+    display: inline;
+    margin-top: -6px;
+}
+#p p{
+    display: inline;
+    font-size:120px;
+}
+#p p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(0, 255, 55);
+}
+#p h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#p h1:hover{
+    text-align: center;
+    background-color: rgb(0, 255, 55);
+    color: white;
+    margin-top: -35px;
+}
+#p img{
+    width: 240px;
+    height: 220px;
+    display: inline;
+    margin-top: -20px;
+}
+#q p{
+    display: inline;
+    font-size:120px;
+    
+}
+#q p:hover{
+    display: inline;
+    font-size:120px;
+    color: pink;
+}
+#q h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#q h1:hover{
+    text-align: center;
+    background-color: pink;
+    color: white;
+    margin-top: -35px;
+}
+#q img{
+    width: 240px;
+    height: 220px;
+    display: inline;
+    margin-top: -20px;
+}
+#r p{
+    display: inline;
+    font-size:120px;
+}
+#r p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgba(117, 54, 54, 0.726);
+}
+#r h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#r h1:hover{
+    text-align: center;
+    background-color: rgba(117, 54, 54, 0.726);
+    color: white;
+    margin-top: -35px;
+}
+#r img{
+    width: 240px;
+    height: 220px;
+    display: inline;
+    margin-top: -20px;
+}
+#s p{
+    display: inline;
+    font-size:120px;
+}
+#s p:hover{
+    display: inline;
+    font-size:120px;
+    color: yellow;
+}
+#s h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#s h1:hover{
+    text-align: center;
+    background-color: yellow;
+    color: white;
+    margin-top: -35px;
+}
+#s img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: -7px;
+}
+#t p{
+    display: inline;
+    font-size:120px;
+}
+#t p:hover{
+    display: inline;
+    font-size:120px;
+    color: green;
+}
+#t h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#t h1:hover{
+    text-align: center;
+    background-color: green;
+    color: white;
+    margin-top: -35px;
+}
+#t img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: -1px;
+}
+#u p{
+    display: inline;
+    font-size:120px;
+}
+#u p:hover{
+    display: inline;
+    font-size:120px;
+    color: red;
+}
+#u h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#u h1:hover{
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-top: -35px;
+}
+#u img{
+    width: 220px;
+    height: 190px;
+    display: inline;
+    margin-top: 4px;
+}
+#v p{
+    display: inline;
+    font-size:120px;
+}
+#v p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgba(0, 128, 0, 0.658);
+}
+#v h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#v h1:hover{
+    text-align: center;
+    background-color: rgba(0, 128, 0, 0.658);
+    color: white;
+    margin-top: -35px;
+}
+#v img{
+    width: 240px;
+    height: 230px;
+    display: inline;
+    margin-top: -30px;
+}
+#w p{
+    display: inline;
+    font-size:114px;
+}
+#w p:hover{
+    display: inline;
+    font-size:114px;
+    color: black;
+}
+#w h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#w h1:hover{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: -35px;
+}
+#w img{
+    width: 200px;
+    height: 210px;
+    display: inline;
+    margin-top: 0px;
+}
+#x p{
+    display: inline;
+    font-size:120px;
+}
+#x p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(45, 177, 40);
+}
+#x h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#x h1:hover{
+    text-align: center;
+    background-color: rgb(45, 177, 40);
+    color: white;
+    margin-top: -35px;
+}
+#x img{
+    width: 220px;
+    height: 200px;
+    display: inline;
+    margin-top: 0px;
+}
+#y p{
+    display: inline;
+    font-size:120px;
+}
+#y p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(87, 65, 65);
+}
+#y h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#y h1:hover{
+    text-align: center;
+    background-color: rgb(87, 65, 65);
+    color: white;
+    margin-top: -35px;
+}
+#y img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: 0px;
+}
+#z p{
+    display: inline;
+    font-size:120px;
+}
+#z p:hover{
+    display: inline;
+    font-size:120px;
+    color: rgb(0, 0, 0);
+}
+#z h1{
+    text-align: center;
+    margin-top: -35px;
+    color: black;
+}
+#z h1:hover{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-top: -35px;
+}
+#z img{
+    width: 240px;
+    height: 200px;
+    display: inline;
+    margin-top: 1px;
+}
+
+
